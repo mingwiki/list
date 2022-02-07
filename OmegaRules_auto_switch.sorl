@@ -1,7 +1,4 @@
 [SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Date: 1/2/2022
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 *.1ka.com
 *.1rx.io
