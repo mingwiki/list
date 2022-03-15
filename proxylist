@@ -1,21 +1,12 @@
 [SwitchyOmega Conditions]
-*.1ka.com
-*.1rx.io
 *.4hu.com
-*.50faka.com
-*.91p20.space
-*.91p22.net
-*.91p47.com
-*.91p48.com
-*.91p49.com
-*.91p51.com
-*.91p51.live
-*.91porn.com
+*.91p*.*
 *.aaaimgs.com
 *.abnerchou.me
 *.ackcdn.net
-*.adsafeprotected.com
 *.aixyz.com
+*.amazonaws.com
+*.android.com
 *.archlinux.org
 *.ax21pics.net
 *.bcprm.com
@@ -28,8 +19,10 @@
 *.bvmqkla.de
 *.cade.me
 *.captifymedia.com
+*.chromium.org
 *.ckvwpzp.xyz
 *.cloudflare.com
+*.cloudfront.net
 *.cloudinary.com
 *.codepen.io
 *.codesandbox.io
@@ -38,7 +31,6 @@
 *.crwdcntrl.net
 *.css-tricks.com
 *.css2scss.com
-*.d3bjd882ymsnb.cloudfront.net
 *.discourse-cdn.com
 *.disqus.com
 *.doubleclick.net
@@ -61,7 +53,6 @@
 *.gmail.com
 *.google*.com
 *.gravatar.com
-*.gsspat.jp
 *.gstatic.com
 *.hjfile.cn
 *.hotjar.com
@@ -72,6 +63,7 @@
 *.influ2.com
 *.intotheblock.com
 *.ipvoid.com
+*.javascripttutorial.net
 *.javhd.com
 *.jekyllthemes.org
 *.jsdelivr.net
@@ -115,7 +107,6 @@
 *.skeimg.com
 *.skuimg.com
 *.skviap.xyz
-*.amazonaws.com
 *.sstatic.net
 *.stackexchange.com
 *.stackoverflow.com
@@ -127,8 +118,7 @@
 *.tapad.com
 *.tawk.to
 *.tdesktop.com
-*.telegram.me
-*.telegram.org
+*.telegram.*
 *.tgtw.cc
 *.thumbsnap.com
 *.touimg.com
@@ -144,7 +134,6 @@
 *.vxotu.com
 *.wikipedia.org
 *.wonderfulday*.live
-*.workarea1.live
 *.xamyzh.com
 *.xvideos-cdn.com
 *.xvideos.com
