@@ -1,5 +1,7 @@
-# switchy
+# SwitchyOmega Proxy Rules list
 
-SwitchyOmega
+## Rule List Config:
+
+Rule List Format: Switchy
 
 Rule List URL:  https://raw.githubusercontent.com/mingwiki/switchy/master/proxylist
