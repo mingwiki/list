@@ -1,7 +1,5 @@
 # SwitchyOmega Proxy Rules list
 
-## Rule List Config:
-
-Rule List Format: Switchy
+## Base64编码
 
 Rule List URL:  http://proxy.zed.ink/list.txt
