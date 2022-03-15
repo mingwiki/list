@@ -1,4 +1,4 @@
-let fs = require('fs');
+const fs = require('fs');
 
 let rules = fs.readFileSync('rules', 'utf8')
 let str = "[AutoProxy]\n" + rules
