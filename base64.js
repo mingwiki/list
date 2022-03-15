@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 let rules = fs.readFileSync('rules', 'utf8')
-let sortedRules = Array.from(new Set(rules.split("\n").filter(e => e !== ''))).sort().join("\n")
+let sortedRules = Array.from(new Set(rules.split("\n").forEach(e => e.trim()).filter(e => e !== ''))).sort().join("\n")
 let str = "[AutoProxy]\n" + sortedRules
 
 fs.writeFile('rules', sortedRules, function (err) {
