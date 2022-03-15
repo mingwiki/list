@@ -8,7 +8,7 @@ script:
   - node base64.js
   - git add .
   - git commit --message "Travis build $TRAVIS_BUILD_NUMBER"
-  - git push origin master
+  - git push https://${GH_TOKEN}@github.com/mingwiki/proxy.git master
 notifications:
   email:
     recipients:
