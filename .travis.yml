@@ -1,0 +1,14 @@
+language: node_js
+node_js: stable
+cache: npm
+branches:
+  only:
+    - master # build master branch only
+script:
+  - node base64.js
+notifications:
+  email:
+    recipients:
+      - mingwiki@gmail.com
+    on_success: change
+    on_failure: always
