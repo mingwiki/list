@@ -1,7 +1,7 @@
 let fs = require('fs');
 
 let rules = fs.readFileSync('rules', 'utf8')
-let str = "[autoproxy] \r" + rules
+let str = "[autoproxy]\r" + rules
 
 fs.writeFile('list.txt', btoa(str), function (err) {
   if (err) throw err;
