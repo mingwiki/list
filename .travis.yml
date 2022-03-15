@@ -1,12 +1,7 @@
 language: node_js
 node_js: stable
-cache: npm
-github-token: $GH_TOKEN
-branches:
-  only:
-    - master # build master branch only
 script:
-  - node base64.js
+  - base64.js
 notifications:
   email:
     recipients:
