@@ -4,4 +4,4 @@
 
 Rule List Format: Switchy
 
-Rule List URL:  https://raw.githubusercontent.com/mingwiki/switchy/master/proxylist
+Rule List URL:  https://raw.githubusercontent.com/mingwiki/proxy/master/list
