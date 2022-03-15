@@ -8,7 +8,7 @@ script:
   - node base64.js
   - git add list.txt
   - git commit --message "Travis build $TRAVIS_BUILD_NUMBER"
-  - git push origin master
+  - git push -f origin master
 notifications:
   email:
     recipients:
