@@ -6,9 +6,9 @@ script:
   - git config --global push.default simple
   - git remote set-url origin https://${GH_TOKEN}@github.com/mingwiki/proxy.git
   - node base64.js
-  - git add list.txt
+  - git add .
   - git commit --message "Travis build $TRAVIS_BUILD_NUMBER"
-  - git push -f origin master
+  - git push origin master
 notifications:
   email:
     recipients:
