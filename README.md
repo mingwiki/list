@@ -4,4 +4,4 @@
 
 Rule List Format: Switchy
 
-Rule List URL:  https://proxy.zed.ink/list.txt
+Rule List URL:  http://proxy.zed.ink/list.txt
