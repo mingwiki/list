@@ -1,7 +1,7 @@
 language: node_js
 node_js: stable
 script:
-  - base64.js
+  - node base64.js
 notifications:
   email:
     recipients:
