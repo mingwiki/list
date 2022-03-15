@@ -3,10 +3,6 @@ node_js: stable
 script:
   - node base64.js
 deploy:
-  cleanup: false
-  keep-history: true
-  edge: true
-  github-token: $GH_TOKEN
   on:
     branch: master
 notifications:
