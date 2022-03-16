@@ -3,7 +3,7 @@ const fs = require("fs")
 let addRules = fs.readFileSync("_addRules.txt", "utf8")
 let rules = fs.readFileSync(".rules", "utf8")
 
-let sortedAddRules = Array.from(new Set(addRules.split("\n").map(e => e.trim()).filter(e => e !== ""))).sort().join("\n")
+let sortedAddRules = Array.from(new Set(addRules.split("\n").map(e => e.trim()).filter(e => e !== ""))).sort().join("\n").replace(/^\*\./ig, "||")
 let sortedRules = Array.from(new Set((rules + "\n" + sortedAddRules).split("\n").map(e => e.trim()).filter(e => e !== ""))).sort().join("\n")
 let list = "[AutoProxy]\n" + sortedRules
 
