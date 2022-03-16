@@ -1,2 +1,0 @@
-*.wp.com
-*.blogger.com
