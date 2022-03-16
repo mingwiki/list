@@ -12,7 +12,7 @@ fs.writeFile(".rules", sortedRules, function (err) {
   console.log(".rules updated!")
 })
 
-fs.writeFile("list.txt", btoa(list), function (err) {
+fs.writeFile("list.txt", btoa(encodeURIComponent(list)), function (err) {
   if (err) throw err
   console.log("list.txt updated!")
 })
