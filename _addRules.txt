@@ -1,0 +1,3 @@
+*.ycombinator.com
+*.atoolbox.net
+*.easymock.org
