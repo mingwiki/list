@@ -1,3 +1,0 @@
-*.mozilla.org
-*.jshell.net
-*.lovelive.tools 
