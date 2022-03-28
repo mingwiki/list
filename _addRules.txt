@@ -1,0 +1,9 @@
+*.getloli.com
+*.appspot.com
+*.filestackapi.com
+*.codepen.io
+*.npmjs.com
+*.gstatic.com
+*.rawgit.com
+*.blogspot.com
+*.material.io
