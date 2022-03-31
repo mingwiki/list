@@ -1,5 +1,0 @@
-*.pugjs.org
-*.opencollective.com
-*.bitwarden.net
-*.bitwarden.com
-*.webpack.js.org
