@@ -1,13 +1,12 @@
 const fs = require("fs")
 
 let addRules = fs.readFileSync("_addRules.txt", "utf8")
-let rules = fs.readFileSync(".rules", "utf8")
+let rules = fs.readFileSync(".rules", "utf8") + '\n' + addRules
 
-let sortedAddRules = Array.from(new Set(addRules.split("\n").map(e => e.trim().replace(/^\*\./ig, "||")).filter(e => e !== ""))).sort().join("\n")
-let sortedRules = Array.from(new Set((rules + "\n" + sortedAddRules).split("\n").map(e => e.trim()).filter(e => e !== ""))).sort().join("\n")
-let list = "[AutoProxy]\n" + sortedRules
+let newRules = Array.from(new Set(rules.split("\n").map(e => e.trim().split(' ').map(e => e.replace(/^(\*\.)/, '||')).filter(e => e.startsWith('||')).join('\n')).join('\n').split('\n'))).filter(e => e !== "").sort().join("\n")
+let list = "[AutoProxy]\n" + newRules
 
-fs.writeFile(".rules", sortedRules, function (err) {
+fs.writeFile(".rules", newRules, function (err) {
   if (err) throw err
   console.log(".rules updated!")
 })
