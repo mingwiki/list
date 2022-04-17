@@ -1,0 +1,15 @@
+*.app.link
+*.appspot.com
+*.archlinux.org
+*.atoolbox.net
+*.ax21pics.net
+*.azureedge.net
+*.bcprm.com
+*.bitcoin.com
+*.bitwarden.com
+*.bitwarden.net
+*.blockvalue.com
+*.blogger.com
+*.blogspot.com
+*.bngprl.com
+*.bngpst.com
