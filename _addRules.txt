@@ -1,5 +1,0 @@
-
-*.azureedge.net
-*.vscode-unpkg.net
-*.slant.co
-*.lustre.ai
