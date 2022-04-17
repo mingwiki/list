@@ -1,12 +1,12 @@
 const fs = require("fs")
 
-let addRules = fs.readFileSync("_addRules.txt", "utf8")
-let rules = fs.readFileSync(".rules", "utf8") + '\n' + addRules
+let _add = fs.readFileSync("_add.txt", "utf8")
+let _rules = fs.readFileSync(".rules", "utf8") + '\n' + _add
 
-let newRules = Array.from(new Set(rules.split("\n").map(e => e.trim().split(' ').map(e => e.replace(/^(\*\.)/, '||')).filter(e => e.startsWith('||')).join('\n')).join('\n').split('\n'))).filter(e => e !== "").sort().map(e => btoa(e)).join("\n")
-let list = "[AutoProxy]\n" + newRules
+let _new = Array.from(new Set(_rules.split("\n").map(e => e.trim().split(' ').map(e => e.replace(/^(\*\.)/, '||')).filter(e => e.startsWith('||')).join('\n')).join('\n').split('\n'))).filter(e => e !== "").sort().join("\n")
+let list = ("[AutoProxy]\n" + _new).split("\n").map(e => btoa(e)).join("\n")
 
-fs.writeFile(".rules", atob(newRules), function (err) {
+fs.writeFile(".rules", _rules, function (err) {
   if (err) throw err
   console.log(".rules updated!")
 })
@@ -16,7 +16,7 @@ fs.writeFile("list.txt", list, function (err) {
   console.log("list.txt updated!")
 })
 
-fs.writeFile("_addRules.txt", "", function (err) {
+fs.writeFile("_add.txt", "", function (err) {
   if (err) throw err
-  console.log("_addRules.txt Cleaned!")
+  console.log("_add.txt Cleaned!")
 })
