@@ -1,0 +1,8 @@
+*.youtube.com
+*.ytimg.com
+*.googlevideo.com
+*.imrworldwide.com
+*.twitchcdn.net
+*.gstatic.com
+*.twitch.tv
+*.ttvnw.net
