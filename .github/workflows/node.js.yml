@@ -20,7 +20,7 @@ jobs:
           git config --global user.name "mingwiki"
           git config --global push.default simple
           git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/mingwiki/proxy.git
-          node base64.js
+          node app.js
           git add .
           git commit --message "Github Actions works"
           git push origin HEAD:master
