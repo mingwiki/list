@@ -1,0 +1,34 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 4/21/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.33across.com
+*.connectad.io
+*.js7k.com
+*.rubiconproject.com
+*.csb.app
+*.codesandbox.io
+*.microsoft.com
+*.segmentfault.com
+*.teads.tv
+*.themoneytizer.com
+*.amazon-adsystem.com
+*.codeleading.com
+*.de17a.com
+*.gstatic.com
+*.2mdn.net
+*.googletagservices.com
+*.4dex.io
+*.google.com
+*.doubleclick.net
+*.criteo.com
+*.googlesyndication.com
+*.aaxads.com
+*.adnxs.com
+*.criteo.net
+*.onetag-sys.com
+*.contextweb.com
+*.mts.ru
+*.smartadserver.com
+*.mediarithmics.com
