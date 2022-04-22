@@ -1,0 +1,4 @@
+||google.com
+||googlesyndication.com
+||googlesyndication.com
+||googletagservices.com
