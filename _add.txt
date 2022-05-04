@@ -1,3 +1,0 @@
-*.gstatic.com
-*.pages-themes.github.io 
-*.fonts.googleapis.com 
