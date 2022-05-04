@@ -1,3 +1,3 @@
 # Rules list
 
-Rule List URL:  <https://zed.ink/proxy>
+Rule List URL:  <https://zed.ink/list>
