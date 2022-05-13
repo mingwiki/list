@@ -1,0 +1,30 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 5/13/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.docker.com
+!i.zed.ink
+!bit.zed.ink
+*.javdb.com
+*.javlibrary.com
+*.javbus.com/
+*.javdove.com/
+*.javbus.com
+*.javdove.com
+*.mui.com
+*.gstatic.com
+*.jsdelivr.net
+*.fonts.googleapis.com
+*.carbonads.com
+*.dev.to
+*.dev-to-uploads.s3.amazonaws.com
+*.unpkg.com
+*.cloudinary.com
+*.vscode-unpkg.net
+*.vscode-cdn.net
+*.visualstudio.com
+*.realfavicongenerator.net
+*.facebook.com
+*.yarnpkg.com
+*.vuetifyjs.com
