@@ -1,0 +1,16 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/5/26
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.github.com
+*.unrealengine.com
+*.epicgames.com
+*.myqcloud.com
+*.alicdn.com
+*.alipayobjects.com
+*.ant.design
+*.hotjar.com
+*.microsoft.com
+*.steamcommunity.com
+*.google.com.hk
