@@ -1,0 +1,46 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 5/26/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google.com.hk
+*.juicyads.com
+*.killcovid2021.com
+*.mxpnl.com
+*.adtng.com
+*.google-analytics.com
+*.doubleclick.net
+*.pornhub.com
+*.phncdn.com
+*.workarea10.live
+*.gstatic.com
+*.91porn.com
+*.barfooze.de
+*.mega.co.nz
+*.mega.nz
+*.meleedrive.com
+*.xoimg.com
+*.rocketcdn.me
+*.criteo.com
+*.inmobi.com
+*.captifymedia.com
+*.2mdn.net
+*.bluekai.com
+*.bidswitch.net
+*.openx.net
+*.adnxs.com
+*.google.co.jp
+*.loopme.me
+*.amazon-adsystem.com
+*.adform.net
+*.redditstatic.com
+*.reddit.com
+*.mmuaa.com
+*.lc-cn-n1-shared.com
+*.rean.ren
+*.twitter.com
+*.twimg.com
+*.google.com
+*.googlevideo.com
+*.vscode.dev
+*.tugraz.at
