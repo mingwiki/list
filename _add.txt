@@ -1,0 +1,13 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/5/27
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.googletagmanager.com
+*.loli.net
+*.shadowsocks.nz
+*.shadowsocks.com
+*.github.com
+*.stackoverflow.com
+*.trojan-gfw.github.io
+*.zed.ink
