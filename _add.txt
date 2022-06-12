@@ -1,0 +1,10 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 6/12/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.netcoretec.com
+*.lottiefiles.com
+*.91p49.com
+*.91porn.com
+*.githubassets.com
