@@ -1,0 +1,24 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/6/15
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google-analytics.com
+*.stepzen.com
+*.superuser.com
+*.makeuseof.com
+*.primis.tech
+*.adlightning.com
+*.narrativ.com
+*.pubmatic.com
+*.taboola.com
+*.simplenextjs.com
+*.doubleclick.net
+*.vercel.comhttps
+*.kestrel.tokyo
+*.githubassets.com
+*.github.com
+*.next-auth.js.org
+*.tutorialspoint.com
+*.sqlservertutorial.net
+*.notion.so
