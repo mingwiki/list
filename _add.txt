@@ -1,0 +1,31 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 8/6/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.gifyu.com
+*.recaptcha.net
+*.googletagmanager.com
+*.kakao.com
+*.criteo.com
+*.4dex.io
+*.d1oykxszdrgjgl.cloudfront.net
+*.google-analytics.com
+*.akamaized.net
+*.op.gg
+*.socdm.com
+*.meba.kr
+*.rlcdn.com
+*.gstatic.com
+*.omnitagjs.com
+*.imgxx.com
+*.jpg.cm
+*.bc06301637879.jpg
+*.x6img.com
+*.1024image.com
+*.xoimg.com
+*.69img.com
+*.23img.com
+*.jitudisk.com
+*.nsaimg.com
+*.91p49.com
