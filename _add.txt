@@ -1,0 +1,12 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/8/8
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.gstatic.com
+*.csp.withgoogle.com
+*.trackjs.com
+*.katacoda.com
+*.ajax.googleapis.com
+*.gravatar.com
+*.youtube.com
