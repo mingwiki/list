@@ -1,0 +1,18 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/8/15
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.kde.org
+*.adnxs.com
+*.gstatic.com
+*.exelator.com
+*.doubleclick.net
+*.yimg.com
+*.resetdigital.co
+*.mediawiki.org
+*.pcgamer.com
+*.typekit.net
+*.pcmag.com
+*.tru.am
+*.nocser.net
