@@ -1,5 +1,4 @@
-const fs = require('fs')
-const { readFileSync, writeFile } = fs
+const { readFileSync, writeFile } = require('fs')
 const _add = readFileSync('_add.txt', 'utf8')
 const _delete = readFileSync('_delete.txt', 'utf8')
 const _list = Buffer.from(
