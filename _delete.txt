@@ -1,0 +1,6 @@
+||google.com
+||googletagmanager.com
+||fonts.googleapis.com
+||bc06301637879.jpg
+||workarea10.live
+||workgreat11.live
