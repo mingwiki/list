@@ -1,0 +1,20 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/9/26
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.venue.cloud
+*.inf-it.com
+*.agendav.org
+*.duckduckgo.com
+*.yahoo.com
+*.nervjs.github.io
+*.ecmascript.org
+*.chrome.com
+*.gstatic.com
+*.us-central1-adaptive-growth.cloudfunctions.net
+*.speedcurve.com
+*.youtube-nocookie.com
+*.haproxy.org
+*.traefik.cn
+*.vitejs.dev
