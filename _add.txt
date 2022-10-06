@@ -1,0 +1,12 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 10/6/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.shadowsocks.*
+*.killcovid2021.com
+*.91p*.*
+*.jads.co
+*.google-analytics.com
+*.3mo.net
+*.23img.com
