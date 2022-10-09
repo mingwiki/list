@@ -1,0 +1,12 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 10/9/2022
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.diagrams.net
+*.redd.it
+*.reddit.com
+*.redditmedia.com
+*.redditstatic.com
+*.datadome.co
+*.alternativeto.net
