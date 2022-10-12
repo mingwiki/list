@@ -1,0 +1,19 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/10/12
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.tiptap.dev
+*.csb.app
+*.jsdelivr.net
+*.gstatic.com
+*.codesandbox.io
+*.vscode.dev
+*.docker.com
+*.tabnine.com
+*.stripe.com
+*.metroline.io
+*.amazonaws.com
+*.cloudflareinsights.com
+*.googlesyndication.com
+*.doubleclick.net
