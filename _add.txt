@@ -1,0 +1,8 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/10/26
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.stackoverflow.com
+*.plnkr.co
+*.fb.me
