@@ -19,7 +19,7 @@ jobs:
           git config --global user.email "mingwiki@gmail.com"
           git config --global user.name "mingwiki"
           git config --global push.default simple
-          git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/mingwiki/proxy.git
+          git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/mingwiki/list.git
           node _.js
           git add .
           git commit --message "Github Actions works"
