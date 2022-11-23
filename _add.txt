@@ -1,0 +1,24 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/11/23
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.alltubedownload.net
+*.googletagmanager.com
+*.docker.com
+*.twitter.com
+*.buttons.github.io
+*.youtube.com
+*.google.com
+*.google.com.au
+*.ggpht.com
+*.doubleclick.net
+*.jnn-pa.googleapis.com
+*.ytimg.com
+*.fonts.googleapis.com
+*.gstatic.com
+*.adthrive.com
+*.linuxhint.com
+*.amazon-adsystem.com
+*.adblockplus.org
+*.go.dev
