@@ -1,0 +1,13 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/11/25
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.linkedin.com
+*.go-mpulse.net
+*.msi.com
+*.licdn.com
+*.alexametrics.com
+*.tiktok.com
+*.outbrain.com
+*.adsrvr.org
