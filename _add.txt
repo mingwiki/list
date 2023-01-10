@@ -1,8 +1,0 @@
-[SwitchyOmega Conditions]
-; Require: SwitchyOmega >= 2.3.2
-; Date: 2023/1/10
-; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
-
-*.gamer.com.tw
-*.bootstrapcdn.com
-*.discourse-cdn.com
