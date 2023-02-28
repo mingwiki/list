@@ -1,0 +1,24 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2/28/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.geekflare.com
+*.stripe.com
+*.fundraiseup.com
+*.tiktokcdn.com
+*.live.com
+*.google-analytics.com
+*.azureedge.net
+*.googletagmanager.com
+*.fonts.googleapis.com
+*.facebook.net
+*.textnow.com
+*.openai.com
+*.hcaptcha.com
+*.telegram.org
+*.rmdown.com
+*.hotavxxx.com
+*.newimgs.com
+*.tuyoubao.com
+*.redircdn.com
