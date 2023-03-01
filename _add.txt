@@ -1,2 +1,0 @@
-*.githubusercontent.com
-*.cloudfront.net
