@@ -1,0 +1,29 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2023/3/1
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.unpkg.com
+*.cdpn.io
+*.codesandbox.io
+*.csb.app
+*.codepen.io
+*.medium.com
+*.branch.io
+*.google-analytics.com
+*.fontawesome.com
+*.googletagmanager.com
+*.kavitareader.com
+*.google.com
+*.googleusercontent.com
+*.gstatic.com
+*.bootstrapcdn.com
+*.disquscdn.com
+*.execute-api.us-east-1.amazonaws.com
+*.thecodebarbarian.com
+*.fonts.googleapis.com
+*.imgur.com
+*.wikipedia.org
+*.shadowsocks.com
+*.github.com
+*.openai.com
