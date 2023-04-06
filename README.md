@@ -1,3 +1,3 @@
 # Rules list
 
-Rule List URL:  <https://zed.ink/list>
+Rule List URL:  <https://fuming.link/list>
