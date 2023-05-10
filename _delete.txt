@@ -1,0 +1,12 @@
+||shadowsocks.com
+||google-analytics.com
+||google.com
+||googlesyndication.com
+||googletagmanager.com
+||googletagservices.com
+||fonts.googleapis.com
+||d1q6f0aelx0por.cloudfront.net
+||d3aqoihi2n8ty8.cloudfront.net
+||ajax.googleapis.com
+||www.google
+||xvideos-cdn.com
