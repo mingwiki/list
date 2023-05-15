@@ -1,0 +1,11 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 5/15/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.teamviewer.com
+*.googletagmanager.com
+*.cms-twdigitalassets.com
+*.typekit.net
+*.truenas.com
+*.nextjs.org
