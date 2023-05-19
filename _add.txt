@@ -1,0 +1,13 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 5/19/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.ruby-forum.com
+*.mvnrepository.com
+*.oracle.com
+*.gmail.com
+*.cdn-apple.com
+*.apple.com
+*.icloud.com
+*.bit.ly
