@@ -1,0 +1,11 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 5/22/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.googletagmanager.com
+*.gstatic.com
+*.ahegao.fans
+*.youtu.be
+*.nobepay.com
+*.stackexchange.com
