@@ -1,0 +1,18 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 6/1/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.sourceforge.net
+*.qbittorrent.org
+*.bittorrent.com
+*.atlassian.com
+*.sourcetreeapp.com
+*.hostloc.com
+*.ssr.tools
+*.bannedbook.org
+*.vmware.com
+*.sms-activate.org
+*.google-analytics.com
+*.googletagmanager.com
+*.pttime.org
