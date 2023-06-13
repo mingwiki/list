@@ -1,0 +1,7 @@
+||google-analytics.com
+||googletagmanager.com
+
+||confiant-integrations.global.ssl.fastly.net
+
+||execute-api.us-east-1.amazonaws.com
+||jnn-pa.googleapis.com
