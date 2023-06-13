@@ -1,0 +1,15 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 6/13/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.ai
+*.ping.pe
+*.ravindrakatoti.com
+*.askubuntu.com
+*.tumblr.com
+*.flomoapp.com
+*.producthunt.com
+*.bilibili.tv
+*.riseup.net
+*.nastool.org
