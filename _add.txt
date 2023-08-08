@@ -1,0 +1,30 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 8/9/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.trpc.io
+*.crisp.chat
+*.wappalyzer.com
+*.bito.ai
+*.gstatic.com
+*.loom.com
+*.klaviyo.com
+*.cloudfront.net
+*.hotjar.com
+*.bubble.io
+*.codegpt.co
+*.fortawesome.com
+*.npmtrends.com
+*.docker.com
+*.scorecardresearch.com
+*.twitchcdn.net
+*.amazon-adsystem.com
+*.bit.ly
+*.vivaldi.com
+*.scribd.com
+*.greasyfork.org
+*.userscript.zone
+*.crystalmark.info
+*.tw
+*.co.jp
