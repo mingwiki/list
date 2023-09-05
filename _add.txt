@@ -1,0 +1,21 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 9/5/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.jtvnw.net
+*.scorecardresearch.com
+*.amazon-adsystem.com
+*.ttvnw.net
+*.twitch.tv
+*.gstatic.com
+*.twitchcdn.net
+*.public-dns.info
+*.v2ex.com
+*.doubleclick.net
+*.redditstatic.com
+*.google.com
+*.reddit.com
+*.redd.it
+*.redditmedia.com
+*.mirror.freedif.org
