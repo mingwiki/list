@@ -1,3 +1,3 @@
 # Rules list
 
-Rule List URL:  <https://fuming.link/list>
+Rule List URL: https://hub.4fm.top/list
