@@ -1,0 +1,21 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 05/10/2023
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.mozilla.com
+cdn77.org
+*.91porn.com
+*.91selfie.com
+*.progress.com
+*.allinfa.com
+*.tiddlywiki.com
+*.twimg.com
+*.twitter.com
+*.1ka.com
+*.gstatic.com
+*.xvideos.com
+*.trafficfactory.biz
+*.xvideos-cdn.com
+*.orbsrv.com
+*.live.com
