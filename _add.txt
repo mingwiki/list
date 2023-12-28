@@ -1,0 +1,24 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2023/12/28
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.censys.com
+*.googletagmanager.com
+*.tensorartassets.com
+*.art
+*.space
+*.keycloak.org
+*.cloudflare.com
+*.huggingface.co
+*.vanilla-js.com
+*.ad-delivery.net
+*.oaistatic.com
+*.pttime.org
+*.devchecklists.com
+*.reddithelp.com
+*.diygod.me
+*.uptodown.com
+*luckrnx09.com
+*.postgresql.org
+*.agrosino.net
