@@ -1,0 +1,11 @@
+||91selfie.com
+
+||amazonaws.com/
+
+||google-analytics.com
+||google.com
+||googletagmanager.com
+||googlevideo.com
+
+||xvideos-cdn.com
+||xvideos.com
