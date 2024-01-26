@@ -1,0 +1,25 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2024/1/26
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.nodeseek.com
+1.1.1.1
+*.slimbrowser.net
+*.ing
+*.caddyserver.com
+*.portableapps.com
+*.quora.com
+*.quoracdn.net
+*.ping.pe
+*.librewolf.net
+*.waterfox.net
+*.google-analytics.com
+*.googletagmanager.com
+*.fonts.googleapis.com
+*.google.com
+*.gstatic.com
+*.icu
+*.githubusercontent.com
+*.gitlab.com
+*.reddithelp.com
