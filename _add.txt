@@ -1,0 +1,19 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 26/02/2024
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.linuxquestions.org
+*.utorrent.com
+*.steemit.com
+*.caddyserver.com
+*.libhunt.com
+*.woolyss.com
+*.gstatic.com
+*.v0.dev
+*.vusercontent.net
+*.stripecdn.com
+*.vx.dev
+*.pjialin.com
+*.reshot.com
+*.newsblur.com
