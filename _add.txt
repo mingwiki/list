@@ -1,0 +1,12 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 30/03/2024
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.libhunt.com
+*.crx4chrome.com
+*.ntp.org
+*.trustarc.com
+*.adobedtm.com
+*.linode.com
+*.demdex.net
