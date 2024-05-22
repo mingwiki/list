@@ -1,0 +1,23 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 22/05/2024
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.x.com
+*.btc35000.com
+*.91selfie.com
+*.googletagmanager.com
+*.enterdesk.com
+*.catbox.moe
+*.telegram.org
+*.docker.com
+*.nextcloud.com
+*.rustdesk.com
+*.joplinapp.org
+*.tiger-algebra.com
+*.nvidia.com
+*.ai
+*.pythonhosted.org
+*.linux.do
+*.firebaseapp.com
+*.codeium.com
