@@ -31,8 +31,8 @@ final_list = sorted([item for item in combined_list if item not in delete_list])
 
 print("\n".join(final_list))
 # Write back to index.html as base64
-with open("index.html", "wb") as index_file:
-    index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")).decode())
+with open("index.html", "w") as index_file:
+    index_file.write(base64.b64encode("\n".join(final_list).encode())())
     print("index.html updated!")
 
 # Clear _add.txt and _delete.txt
