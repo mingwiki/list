@@ -5,32 +5,29 @@ name: Python application
 
 on:
   push:
-    branches: [ "master" ]
+    branches: ["master"]
   pull_request:
-    branches: [ "master" ]
+    branches: ["master"]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Run python script
-      run: |
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Run python script
+        run: |
           git config --global user.email "mingwiki@gmail.com"
           git config --global user.name "mingwiki"
           git config --global push.default simple
           git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/mingwiki/list.git
           python main.py
-          git add .
-          git commit -a --message "Github Actions works"
+          git commit -a --message "updated by Github Actions"
           git push origin HEAD:master
