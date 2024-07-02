@@ -24,7 +24,7 @@ delete_list = [
     if line.strip().startswith("||")
 ]
 
-# Filter out items in delete_list
+# Combine lists and remove duplicates，then return items not in delete_list with title
 final_list = ["[AutoProxy]"] + sorted(
     [
         item
