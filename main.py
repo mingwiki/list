@@ -23,12 +23,14 @@ delete_list = [
     for line in _delete.split("\n")
     if line.strip().startswith("||")
 ]
-# Combine lists and remove duplicates
-combined_list = list(set(_list.split("\n")[1:] + add_list))
 
 # Filter out items in delete_list
 final_list = ["[AutoProxy]"] + sorted(
-    [item for item in combined_list if item not in delete_list]
+    [
+        item
+        for item in list(set(_list.split("\n")[1:] + add_list))
+        if item not in delete_list
+    ]
 )
 
 # Write back to index.html as base64
