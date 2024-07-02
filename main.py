@@ -23,24 +23,23 @@ delete_list = [
     for line in _delete.split("\n")
     if line.strip().startswith("||")
 ]
-
 # Combine lists and remove duplicates
 combined_list = list(set(_list.split("\n")[1:] + add_list))
 
 # Filter out items in delete_list
 final_list = sorted([item for item in combined_list if item not in delete_list])
 
+print("\n".join(final_list))
 # Write back to index.html as base64
 with open("index.html", "wb") as index_file:
-    index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")))
+    index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")).decode())
+    print("index.html updated!")
 
 # Clear _add.txt and _delete.txt
 with open("_add.txt", "w") as add_file:
     add_file.write("")
-print("_add.txt cleaned!")
+    print("_add.txt cleaned!")
 
 with open("_delete.txt", "w") as delete_file:
     delete_file.write("")
-print("_delete.txt cleaned!")
-
-print("index.html updated!")
+    print("_delete.txt cleaned!")
