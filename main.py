@@ -32,8 +32,8 @@ final_list = ["[AutoProxy]"] + sorted(
 )
 
 # Write back to index.html as base64
-with open("index.html", "w") as index_file:
-    index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")).decode())
+with open("index.html", "wb") as index_file:
+    index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")))
     print("index.html updated!")
 
 # Clear _add.txt and _delete.txt
