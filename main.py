@@ -27,15 +27,13 @@ delete_list = [
 combined_list = list(set(_list.split("\n")[1:] + add_list))
 
 # Filter out items in delete_list
-final_list = sorted([item for item in combined_list if item not in delete_list])
+final_list = ["[AutoProxy]"] + sorted(
+    [item for item in combined_list if item not in delete_list]
+)
 
 # Write back to index.html as base64
 with open("index.html", "w") as index_file:
-    index_file.write(
-        base64.b64encode(
-            f'[AutoProxy]\n{"\n".join(final_list)}'.encode("utf-8")
-        ).decode()
-    )
+    index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")).decode())
     print("index.html updated!")
 
 # Clear _add.txt and _delete.txt
