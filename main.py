@@ -32,7 +32,9 @@ final_list = sorted([item for item in combined_list if item not in delete_list])
 # Write back to index.html as base64
 with open("index.html", "w") as index_file:
     index_file.write(
-        base64.b64encode("[AutoProxy]" + "\n".join(final_list).encode("utf-8")).decode()
+        base64.b64encode(
+            f'[AutoProxy]\n{"\n".join(final_list)}'.encode("utf-8")
+        ).decode()
     )
     print("index.html updated!")
 
