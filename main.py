@@ -24,7 +24,11 @@ delete_list = [
     if line.strip().startswith("||")
 ]
 
-# Combine lists and remove duplicates，then return items not in delete_list with title
+# if _add.txt and _delete.txt are empty, exit
+if not _add and not _delete:
+    exit()
+
+# Combine lists， remove duplicates，then delete items in _delete.txt
 final_list = ["[AutoProxy]"] + sorted(
     [
         item
