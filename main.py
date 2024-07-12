@@ -27,12 +27,11 @@ delete_list = [
 # Combine lists， remove duplicates，then delete items in _delete.txt
 final_list = ["[AutoProxy]"] + sorted(
     [
-        item.strip().replace("*.", "||", 1)
+        item
         for item in list(set(_list.split("\n")[1:] + add_list))
-        if item not in delete_list
+        if item not in delete_list and item.count("||") == 1
     ]
 )
-
 # Write back to index.html as base64
 with open("index.html", "wb") as index_file:
     index_file.write(base64.b64encode("\n".join(final_list).encode("utf-8")))
