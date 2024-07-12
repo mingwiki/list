@@ -12,7 +12,7 @@ with open("index.html", "rb") as index_file:
 
 # Process _add.txt contents
 add_list = [
-    line.strip().replace("^(\*\.)/", "||").split()[0]
+    line.strip().replace("*.", "||", 1)
     for line in _add.split("\n")
     if line.strip().startswith("*.")
 ]
@@ -24,14 +24,10 @@ delete_list = [
     if line.strip().startswith("||")
 ]
 
-# if _add.txt and _delete.txt are empty, exit
-if not _add and not _delete:
-    exit()
-
 # Combine lists， remove duplicates，then delete items in _delete.txt
 final_list = ["[AutoProxy]"] + sorted(
     [
-        item
+        item.strip().replace("*.", "||", 1)
         for item in list(set(_list.split("\n")[1:] + add_list))
         if item not in delete_list
     ]
