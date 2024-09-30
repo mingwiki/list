@@ -1,0 +1,22 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2024/9/30
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.crontab.guru
+*.python-rq.org
+*.cpu-monkey.com
+*.redis.io
+*.gitea.com
+*.metz.sh
+*.googletagmanager.com
+*.framerusercontent.com
+*.gstatic.com
+*.nixos.org
+*.science-output.s3.amazonaws.com
+*.scorecardresearch.com
+*.jtvnw.net
+*.twitch.tv
+*.ext-twitch.tv
+*.ttvnw.net
+*.fosshub.com
