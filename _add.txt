@@ -1,0 +1,23 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2024/10/17
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google.com
+*.empornium.ph
+*.uecook.com
+*.66img.cc
+*.reddit.com
+*.gstatic.com
+*.vivaldi.com
+*.nicegui.io
+*.bmcx.com
+*.is
+*.coding.gs
+*.archive.org
+*.cosmiccoding.com.au
+*.daxiaamu.com
+*.ip2location.com
+*.cloudflare-quic.com
+*.libhunt.com
+*.naukri.com
