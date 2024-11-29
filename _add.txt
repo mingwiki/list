@@ -1,0 +1,47 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2024/11/29
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.dockerhub.icu
+*.goframe.org
+*.dockerproxy.net
+*.coderjia.cn
+*.dockerproxy.com
+*.googletagmanager.com
+*.gstatic.com
+*.ceph.com
+*.docker.com
+*.github.com
+*.sagernet.org
+*.m-team.io
+*.b.ug
+*.ai
+*.cursor.com
+*.greenhalt.info
+*.nadeko.net
+*.st
+*.tap4.ai
+*.zed.dev
+*.google.com
+*.twimg.com
+*.aiohttp.org
+*.sanic.dev
+*.heroicons.com
+*.headlessui.com
+*.rsms.me
+*.tailwindui.com
+*.sqlitebrowser.org
+*.appwrite.io
+*.strapi.io
+*.directus.pizza
+*.directus.io
+*.postgrest.org
+*.aio-libs.org
+*.gotify.net
+*.freedidi.com
+*.manfuz.co
+*.ojrq.net
+*.namecheap.com
+*.nc-img.com
+*.ttentau.top
