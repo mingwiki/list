@@ -1,0 +1,20 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2024/12/23
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.baserow.io
+*.githubusercontent.com
+*.xvideos-cdn.com
+*.vsmvideo.com
+*.xvideos.com
+*.1ka.com
+*.sh
+*.searxng.org
+*.caddyserver.com
+*.how2shout.com
+*.fonts.googleapis.com
+*.queniuqe.com
+*.steamstatic.com
+*.steampowered.com
+*.eccdnx.com
