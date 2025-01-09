@@ -1,0 +1,32 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2025/1/9
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.anasdidi.dev
+*.ac.uk
+*.cloudinary.com
+*.bitwarden.com
+*.steamstatic.com
+*.framerusercontent.com
+*.gstatic.com
+*.framerstatic.com
+*.comfy.org
+*.ai
+*.cloudflare.com
+*.huggingface.co
+*.google.com
+*.thinkdiffusion.com
+*.caddyserver.com
+*.v0.com
+*.v0.dev
+*.cookiebot.com
+*.googletagmanager.com
+*.tiobe.com
+*.libhunt.com
+*.fonts.googleapis.com
+*.uvicorn.org
+*.imageglass.org
+*.usersdrives.pro
+*.mega.nz
+*.qbittorrent.org
