@@ -1,0 +1,33 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 2025/2/6
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.ttwstatic.com
+*.tiktokcdn.com
+*.tiktok.com
+*.tiktokv.com
+*.containrrr.dev
+*.git-scm.com
+*.jsdelivr.net
+*.tiktokcdn-us.com
+*.userstyles.org
+*.trae.ai
+*.alpinelinux.org
+*.pages.dev
+*.ext-twitch.tv
+*.twitch.tv
+*.ttvnw.net
+*.scorecardresearch.com
+*.twitchcdn.net
+*.gstatic.com
+*.jtvnw.net
+*.redd.it
+*.redditspace.com
+*.reddit.com
+*.redditmedia.com
+*.sentry.dev
+*.devicon.dev
+*.tiktok*.com
+*.tiktokcdn-eu.com
+*.byteoversea.com
